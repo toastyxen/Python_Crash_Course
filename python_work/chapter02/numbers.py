@@ -1,3 +1,4 @@
+# All of these print 8, except the last one, which prints 42 
 print(5+3)
 print(99-91)
 print(4*2)
