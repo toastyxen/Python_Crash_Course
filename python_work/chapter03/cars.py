@@ -1,3 +1,12 @@
-cars = ['bms', 'audi', 'toyota', 'subaru']
-cars.sort()
-print(cars)
+cars = ['bmw', 'audi', 'toyota', 'subaru']
+#print("Here is the original list:")
+#print(cars)
+length = len(cars)
+print(length)
+
+#cars.reverse()
+#print(cars)
+#print("\nHere is the sorted list:")
+#print(sorted(cars))
+#print("\nHere is the original list again:")
+#print(cars)
